@@ -1,0 +1,6 @@
+{
+  "name": "Quarky Drive",
+  "description": "Cross-device ETS2-inspired web controller, authenticated WebSocket relay, and Windows PictoBlox host bridge for Quarky robot cars.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
